@@ -1,8 +1,4 @@
-
-```markdown
 # Interviewer Chatbot (IC)🧠🤖
-
-
 
 The Interviewer Chatbot (IC) is an interactive conversational application designed to simulate the experience of a professional interviewer. It incorporates Streamlit, LangChain, and OpenAI's language model (LLM) to create an engaging and dynamic interview environment.
 
