@@ -47,4 +47,3 @@ The application is developed by [Nishant Singh Parihar](https://nishantparihar.g
 - LangChain
 - OpenAI
 
-```
